@@ -81,7 +81,7 @@
                 "dateOfBirth": "1987-07-25T00:00:00.000Z"
               }
             ],
-  "notes":[
+  "notes": [
               {
                 "title": "Lập trình Mobile",
                 "content": "Ứng dụng Notes cơ bản bằng Flutter và Dart",
