@@ -84,30 +84,30 @@
   "notes":[
               {
                 "title": "Lập trình Mobile",
-                "content'": "Ứng dụng Notes cơ bản bằng Flutter và Dart",
+                "content": "Ứng dụng Notes cơ bản bằng Flutter và Dart",
                 "priority": "3",
-                "createdAt": "DateTime.now().toIso8601String()",
-                "modifiedAt": "DateTime.now().toIso8601String()",
+                "createdAt": "2025-04-08T18:30:00.Z",
+                "modifiedAt": "2025-04-08T18:30:00.Z",
                 "tags": "Flutter,Mobile,Dart",
                 "color": "#faebd7",
               },
               {
                 "title": "Thông tin cá nhân",
-                "content'": "Hoàng Minh Quân",
+                "content": "Hoàng Minh Quân",
                 "priority": "1",
-                "createdAt": "DateTime.now().toIso8601String()",
-                "modifiedAt": "DateTime.now().toIso8601String()",
+                "createdAt": "2025-04-08T18:30:00.Z",
+                "modifiedAt": "2025-04-08T18:30:00.Z",
                 "tags": "22DTH1",
                 "color": "#faebd7",
               },
               {
                 "title": "Thông tin thời tiết",
-                "content'": "Dự báo thời tiết hôm nay",
+                "content": "Dự báo thời tiết hôm nay",
                 "priority": "2",
-                "createdAt": "DateTime.now().toIso8601String()",
-                "modifiedAt": "DateTime.now().toIso8601String()",
+                "createdAt": "2025-04-08T18:30:00.Z",
+                "modifiedAt": "2025-04-08T18:30:00.Z",
                 "tags": "Weather",
-                "color": "#faebd7",
+                "color": "#faebd7"
               }
           ]
 }
